@@ -1,0 +1,101 @@
+﻿Repository,URL,Owner,Owner Type,Default Branch,Stars,Forks,Subscribers,Open Issues (total),Commits (total),PRs (total),Issues (total),Contributors (total),Created At,Pushed At,Updated At,Last Release Date,Primary Language,License,Topics,Size (KB),Homepage,Has Wiki,Has Pages,Has Build System,Has CI,Contains Parallel/Concurrency Code,Concurrency Signal,Project Type
+PlantGeneticsLab/SiPAS-tools,https://github.com/PlantGeneticsLab/SiPAS-tools,PlantGeneticsLab,Organization,,0,0,0,0,84,0,1,4,,,,,,gpl-3.0,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+jxiw/ADOPT,https://github.com/jxiw/ADOPT,jxiw,User,,0,0,0,0,107,4,0,3,,,,2023-05-17T15:34:22Z,,mit,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+BIOP/qupath-extension-cellpose,https://github.com/BIOP/qupath-extension-cellpose,BIOP,Organization,,0,0,0,0,214,19,45,7,,,,2025-07-14T13:05:54Z,,apache-2.0,cellpose;qupath;omnipose,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+mdfairch/FallrimTools,https://github.com/mdfairch/FallrimTools,mdfairch,User,,0,0,0,0,114,0,0,1,,,,,,apache-2.0,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+aws-lab-01/algoj,https://github.com/aws-lab-01/algoj,aws-lab-01,Organization,,0,0,0,0,10,0,0,1,,,,,,apache-2.0,,0,,No,No,Yes,No,Yes,parallelStream(,Industrial OSS
+Tsunaou/MongoDB-SI-Checker,https://github.com/Tsunaou/MongoDB-SI-Checker,Tsunaou,User,,0,0,0,0,53,0,0,3,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+ongdb-contrib/ongdb-lab-security,https://github.com/ongdb-contrib/ongdb-lab-security,ongdb-contrib,Organization,,0,0,0,0,14,0,0,1,,,,2022-06-29T01:44:55Z,,apache-2.0,,0,,No,No,Yes,No,Yes,parallelStream(,Industrial OSS
+MyCoRe-Org/MyVidCoRe,https://github.com/MyCoRe-Org/MyVidCoRe,MyCoRe-Org,Organization,,0,0,0,0,642,15,1,6,,,,2021-05-31T10:21:52Z,,gpl-3.0,convert-videos;ffmpeg;mycore;webservice;gpu-support;java;gui;vosk,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+AlexandruGH/Library,https://github.com/AlexandruGH/Library,AlexandruGH,User,,0,0,0,0,10,3,0,1,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+CCarbon1024/CCarbon1024Wurst,https://github.com/CCarbon1024/CCarbon1024Wurst,CCarbon1024,User,,0,0,0,0,10,0,0,1,,,,,,gpl-3.0,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+fazleh2010/multilingual-grammar-generator,https://github.com/fazleh2010/multilingual-grammar-generator,fazleh2010,User,,0,0,0,0,190,0,0,5,,,,,,other,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+KingPrimes/NyxBot,https://github.com/KingPrimes/NyxBot,KingPrimes,User,,0,0,0,0,835,84,37,5,,,,2025-09-27T17:25:36Z,,mit,qq-bot;qqbot;spring-boot;warframe;warframe-bot;onebot11,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+cryptometa708/exchanges-announcement,https://github.com/cryptometa708/exchanges-announcement,cryptometa708,User,,0,0,0,0,10,0,0,1,,,,,,mit,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+msaiducar/is-anagram,https://github.com/msaiducar/is-anagram,msaiducar,User,,0,0,0,0,10,0,0,1,,,,2023-06-27T23:22:31Z,,,,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+MarcPG1905/BotPG-v2,https://github.com/MarcPG1905/BotPG-v2,MarcPG1905,User,,0,0,0,0,22,0,0,1,,,,,,gpl-3.0,discord-bot;economy;jda;moderation,0,,No,No,Yes,No,Yes,parallelStream(,Research
+HYK97/CodeingTest,https://github.com/HYK97/CodeingTest,HYK97,User,,0,0,0,0,435,0,0,2,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+lucas-ifsp/software-testing,https://github.com/lucas-ifsp/software-testing,lucas-ifsp,User,,0,0,0,0,10,0,0,1,,,,,,gpl-3.0,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+mc-SneakyBastard/SneakyBastard,https://github.com/mc-SneakyBastard/SneakyBastard,mc-SneakyBastard,Organization,,0,0,0,0,30,0,0,1,,,,,,gpl-3.0,,0,,No,No,Yes,No,Yes,parallelStream(,Industrial OSS
+LuzianU/better-beatoraja,https://github.com/LuzianU/better-beatoraja,LuzianU,User,,0,0,0,0,2887,0,0,47,,,,2022-07-17T11:43:25Z,,gpl-3.0,,0,,No,No,No,Yes,Yes,parallelStream(,Research
+caleb-fynewever/Cocoon,https://github.com/caleb-fynewever/Cocoon,caleb-fynewever,User,,0,0,0,0,26,1,0,2,,,,,,other,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+now1113/study,https://github.com/now1113/study,now1113,User,,0,0,0,0,58,0,0,1,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+MarcosDanielBudtinger/gra,https://github.com/MarcosDanielBudtinger/gra,MarcosDanielBudtinger,User,,0,0,0,0,25,0,0,1,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+bartdecu/fhirfederator,https://github.com/bartdecu/fhirfederator,bartdecu,User,,0,0,0,0,95,29,23,4,,,,,,cc0-1.0,fhir-server,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+DmitrievSergey/search_engine,https://github.com/DmitrievSergey/search_engine,DmitrievSergey,User,,0,0,0,0,30,9,0,1,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+NAVERON/FxComponents,https://github.com/NAVERON/FxComponents,NAVERON,User,,0,0,0,0,29,0,0,2,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+LucasWolschick/moa-scp-mh,https://github.com/LucasWolschick/moa-scp-mh,LucasWolschick,User,,0,0,0,0,11,0,0,1,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+oswald229/katas,https://github.com/oswald229/katas,oswald229,User,,0,0,0,0,208,0,0,2,,,,,,,,0,,No,No,Yes,Yes,Yes,parallelStream(,Open-source (general)
+LordMonoxide/opensiege,https://github.com/LordMonoxide/opensiege,LordMonoxide,User,,0,0,0,0,30,0,0,1,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+myportfolio-yj/backend-mic-clinica,https://github.com/myportfolio-yj/backend-mic-clinica,myportfolio-yj,Organization,,0,0,0,0,12,0,0,1,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+CopperV/EpicPvP,https://github.com/CopperV/EpicPvP,CopperV,User,,0,0,0,0,14,3,0,1,,,,2024-02-08T15:52:47Z,,gpl-3.0,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+herrsalmi/IntOmics,https://github.com/herrsalmi/IntOmics,herrsalmi,User,,0,0,0,0,107,24,0,3,,,,2021-03-19T10:52:59Z,,gpl-3.0,multi-omics-data;bioinformatics,0,,No,No,Yes,No,Yes,parallelStream(,Research
+WolkisTM/wurst-1.16.5,https://github.com/WolkisTM/wurst-1.16.5,WolkisTM,User,,0,0,0,0,10,0,1,2,,,,,,gpl-3.0,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+StarRocks/starrocks-connector-for-apache-flink,https://github.com/StarRocks/starrocks-connector-for-apache-flink,StarRocks,Organization,,0,0,0,0,322,312,147,33,,,,2025-09-19T07:52:14Z,,apache-2.0,,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+husonlab/splitstree6,https://github.com/husonlab/splitstree6,husonlab,User,,0,0,0,0,1009,1,49,7,,,,2025-08-10T05:54:24Z,,,distances;javafx;networks;phylogenetics;trees,0,,No,No,Yes,No,Yes,parallelStream(,Research
+ArcaneArts/CurseJava,https://github.com/ArcaneArts/CurseJava,ArcaneArts,Organization,,0,0,0,0,28,0,1,1,,,,2023-05-23T11:07:16Z,,gpl-3.0,,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+contractautomataproject/ContractAutomataLib,https://github.com/contractautomataproject/ContractAutomataLib,contractautomataproject,Organization,,0,0,0,0,716,8,7,7,,,,2022-04-29T12:42:33Z,,gpl-3.0,contract;automata;choreography;synthesis;orchestration;supervisory-control;composition,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+EduardRK/Tinkoff_Java_First_Sem,https://github.com/EduardRK/Tinkoff_Java_First_Sem,EduardRK,User,,0,0,0,0,98,21,0,1,,,,,,,,0,,No,No,Yes,Yes,Yes,parallelStream(,Industrial OSS
+art0s-dev/hexenhammer,https://github.com/art0s-dev/hexenhammer,art0s-dev,User,,0,0,0,0,120,0,6,2,,,,,,other,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+jinghui70/rainbow-dbaccess,https://github.com/jinghui70/rainbow-dbaccess,jinghui70,User,,0,0,0,0,75,0,0,1,,,,2022-09-22T12:19:49Z,,mit,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+RIPE-NCC/rpki-core,https://github.com/RIPE-NCC/rpki-core,RIPE-NCC,Organization,,0,0,0,0,123,1,0,1,,,,,,other,,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+Souad-ESSABANNE/Progfonctionnelle,https://github.com/Souad-ESSABANNE/Progfonctionnelle,Souad-ESSABANNE,User,,0,0,0,0,23,5,0,2,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+djhelbert/java21ocp,https://github.com/djhelbert/java21ocp,djhelbert,User,,0,0,0,0,46,0,0,2,,,,,,,java,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+rnhc1000/challenge75,https://github.com/rnhc1000/challenge75,rnhc1000,User,,0,0,0,0,454,219,0,2,,,,,,,coding-challenges;java,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+allurx/annotation-parser,https://github.com/allurx/annotation-parser,allurx,User,,0,0,0,0,47,6,0,2,,,,2025-03-01T10:42:12Z,,apache-2.0,annotation-parser,0,,No,No,Yes,No,Yes,parallelStream(,Research
+hardikSinghBehl/checkbox-values-bitfield-enum-poc,https://github.com/hardikSinghBehl/checkbox-values-bitfield-enum-poc,hardikSinghBehl,User,,0,0,0,0,13,0,0,2,,,,,,,java;rdb;database;bitfield;enumset,0,,No,No,Yes,No,Yes,parallelStream(,Research
+rat-genome-database/go-nonrat-annotation-pipeline,https://github.com/rat-genome-database/go-nonrat-annotation-pipeline,rat-genome-database,Organization,,0,0,0,0,63,0,0,1,,,,,,gpl-3.0,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+XGVela/tmaas,https://github.com/XGVela/tmaas,XGVela,Organization,,0,0,0,0,10,2,0,2,,,,2022-11-25T15:15:57Z,,apache-2.0,,0,,No,No,Yes,No,Yes,parallelStream(,Industrial OSS
+DanielTM999/VolatileCache,https://github.com/DanielTM999/VolatileCache,DanielTM999,User,,0,0,0,0,10,0,0,1,,,,2025-04-21T19:31:16Z,,,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+HttpsWinicius/microservice-sqs-order-receiver,https://github.com/HttpsWinicius/microservice-sqs-order-receiver,HttpsWinicius,User,,0,0,0,0,16,3,0,1,,,,,,mit,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+matsim-scenarios/matsim-mexico-city,https://github.com/matsim-scenarios/matsim-mexico-city,matsim-scenarios,Organization,,0,0,0,0,163,11,0,1,,,,2024-04-02T19:26:40Z,,agpl-3.0,,0,,No,No,Yes,Yes,Yes,parallelStream(,Industrial OSS
+florentbo/advent-of-code,https://github.com/florentbo/advent-of-code,florentbo,User,,0,0,0,0,385,0,0,3,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+svmsangam/inventory-spring-mvc,https://github.com/svmsangam/inventory-spring-mvc,svmsangam,User,,0,0,0,0,731,0,0,6,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+VideoGameSmash12/jrgrab,https://github.com/VideoGameSmash12/jrgrab,VideoGameSmash12,User,,0,0,0,0,36,4,0,1,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+favourdan/furniture_store_BE,https://github.com/favourdan/furniture_store_BE,favourdan,User,,0,0,0,0,474,0,0,20,,,,,,apache-2.0,,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+egch/1Z0-829-preparation,https://github.com/egch/1Z0-829-preparation,egch,User,,0,0,0,0,344,5,1,4,,,,,,apache-2.0,certification;java;java17;ocp;ocp17;oracle;1z0-829;oracle-certified-professional;java-17,0,,No,No,Yes,No,Yes,parallelStream(,Research
+Ruvinda-Shaluka/DreamBabyCareProductsProject,https://github.com/Ruvinda-Shaluka/DreamBabyCareProductsProject,Ruvinda-Shaluka,User,,0,0,0,0,39,0,0,1,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+Gamify-IT/overworld-backend,https://github.com/Gamify-IT/overworld-backend,Gamify-IT,Organization,,0,0,0,0,596,107,0,18,,,,2025-05-21T16:23:31Z,,other,,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+rat-genome-database/mutant-strain-annotation-pipeline,https://github.com/rat-genome-database/mutant-strain-annotation-pipeline,rat-genome-database,Organization,,0,0,0,0,31,0,0,1,,,,,,gpl-3.0,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+hivdb/sierra-core,https://github.com/hivdb/sierra-core,hivdb,Organization,,0,0,0,0,187,4,4,2,,,,,,gpl-3.0,,0,,No,No,Yes,No,Yes,parallelStream(,Industrial OSS
+onafetsidrasul/DotsandBoxes,https://github.com/onafetsidrasul/DotsandBoxes,onafetsidrasul,User,,0,0,0,0,220,9,0,3,,,,,,,,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+joypeb/java-algorithm,https://github.com/joypeb/java-algorithm,joypeb,User,,0,0,0,0,178,0,0,1,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+musty-codified/Oakland-v1-be,https://github.com/musty-codified/Oakland-v1-be,musty-codified,User,,0,0,0,0,478,2,0,20,,,,,,apache-2.0,,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+korpling/ANNIS,https://github.com/korpling/ANNIS,korpling,Organization,,0,0,0,0,8938,285,581,32,,,,2025-10-10T09:03:35Z,,apache-2.0,search-interface;linguistic-corpora;corpus-search,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+laurent-daniel-utt/MeshIneBits,https://github.com/laurent-daniel-utt/MeshIneBits,laurent-daniel-utt,User,,0,0,0,0,1024,87,123,25,,,,2022-09-23T07:53:14Z,,gpl-3.0,java;slicer;processing;3d-printing;3d-printer,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+etendosoftware/etendo_core,https://github.com/etendosoftware/etendo_core,etendosoftware,Organization,,0,0,0,0,1502,569,228,47,,,,2025-09-30T16:01:55Z,,other,erp;financial;sales;etendo,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+hardikSinghBehl/personal-finance-management-system,https://github.com/hardikSinghBehl/personal-finance-management-system,hardikSinghBehl,User,,0,0,0,0,41,0,0,1,,,,,,,java;spring-boot;spring-security;jwt-authentication;postgresql;lombok;swagger-ui;open-api-v3;finance-management,0,,No,No,Yes,No,Yes,parallelStream(,Research
+gromit25/JUTools,https://github.com/gromit25/JUTools,gromit25,User,,0,0,0,0,956,0,0,2,,,,,,gpl-3.0,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+maplestoryteam/maplestory,https://github.com/maplestoryteam/maplestory,maplestoryteam,Organization,,0,0,0,0,53,0,0,1,,,,,,apache-2.0,,0,,No,No,Yes,No,Yes,parallelStream(,Industrial OSS
+miyabayt/spring-boot-r2dbc-rest-sample,https://github.com/miyabayt/spring-boot-r2dbc-rest-sample,miyabayt,User,,0,0,0,0,51,37,1,2,,,,,,apache-2.0,r2dbc;rest-api;spring-boot,0,,No,No,Yes,Yes,Yes,parallelStream(,Industrial OSS
+pagopa/pagopa-afm-marketplace-be,https://github.com/pagopa/pagopa-afm-marketplace-be,pagopa,Organization,,0,0,0,0,452,141,0,18,,,,2025-10-03T08:24:49Z,,,pagopa-afm,0,,No,No,Yes,Yes,Yes,parallelStream(,Industrial OSS
+AnandakrishnanV/WordCounter,https://github.com/AnandakrishnanV/WordCounter,AnandakrishnanV,User,,0,0,0,0,30,0,0,1,,,,,,mit,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+NicholasBlackburn1/Robo_Hacker,https://github.com/NicholasBlackburn1/Robo_Hacker,NicholasBlackburn1,User,,0,0,0,0,91,1,0,1,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Research
+h1tm4nqq/ForeverClient-leak,https://github.com/h1tm4nqq/ForeverClient-leak,h1tm4nqq,User,,0,0,0,0,10,0,7,2,,,,2024-02-29T15:30:55Z,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+kevansimpson/advent-of-code,https://github.com/kevansimpson/advent-of-code,kevansimpson,User,,0,0,0,0,209,11,0,2,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+Gamify-IT/bugfinder-backend,https://github.com/Gamify-IT/bugfinder-backend,Gamify-IT,Organization,,0,0,0,0,84,19,0,10,,,,2025-05-21T16:23:25Z,,other,,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+lahatra3/wisedata,https://github.com/lahatra3/wisedata,lahatra3,User,,0,0,0,0,25,7,0,2,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+Football-Supporters-Group/amtrak-data,https://github.com/Football-Supporters-Group/amtrak-data,Football-Supporters-Group,Organization,,0,0,0,0,338,20,12,3,,,,,,gpl-3.0,,0,,No,No,Yes,Yes,Yes,parallelStream(,Industrial OSS
+NAVEENWODEYAR/Nandi,https://github.com/NAVEENWODEYAR/Nandi,NAVEENWODEYAR,User,,0,0,0,0,47,0,0,1,,,,,,,,0,,No,No,Yes,No,Yes,parallelStream(,Open-source (general)
+noobstersmc/UHC-1.16,https://github.com/noobstersmc/UHC-1.16,noobstersmc,Organization,,0,0,0,0,396,6,3,4,,,,,,mit,,0,,No,No,Yes,Yes,Yes,parallelStream(,Research
+frischHWC/datagen,https://github.com/frischHWC/datagen,frischHWC,User,,0,0,0,0,171,2,0,3,,,,2024-12-17T14:08:35Z,,apache-2.0,adls;avro;cdp;cloudera;csv;data;gcs;hbase;hdfs;hive;json;kafka;kudu;orc;parquet;s3;solr,0,,No,No,Yes,No,Yes,parallelStream(,Research
+ArcaneChat/android,https://github.com/ArcaneChat/android,ArcaneChat,Organization,,0,0,0,0,8228,17,37,71,,,,2025-10-15T16:55:53Z,,gpl-3.0,email;chat;decentralization;encryption;deltachat,0,,No,No,Yes,Yes,Yes,ExecutorService,Research
+aws-samples/amazon-codeguru-java-detectors,https://github.com/aws-samples/amazon-codeguru-java-detectors,aws-samples,Organization,,0,0,0,0,63,81,0,11,,,,,,apache-2.0,,0,,No,No,Yes,Yes,Yes,ExecutorService,Research
+cohere-ai/cohere-java,https://github.com/cohere-ai/cohere-java,cohere-ai,Organization,,0,0,0,0,45,57,8,4,,,,2025-09-12T16:27:31Z,,mit,,0,,No,No,Yes,Yes,Yes,CompletableFuture,Research
+crowdin/crowdin-cli,https://github.com/crowdin/crowdin-cli,crowdin,Organization,,0,0,0,0,1337,686,236,52,,,,2025-09-03T06:16:39Z,,mit,cli;client;command-line-tool;sync;localization;hacktoberfest,0,,No,No,Yes,Yes,Yes,ExecutorService,Research
+DevMello/MeteorMusic,https://github.com/DevMello/MeteorMusic,DevMello,User,,0,0,0,0,107,0,0,12,,,,2024-08-01T01:15:22Z,,cc0-1.0,,0,,No,No,Yes,Yes,Yes,CompletableFuture,Research
+andirady/pom-cli,https://github.com/andirady/pom-cli,andirady,User,,0,0,0,0,199,21,19,4,,,,2025-08-19T06:44:35Z,,apache-2.0,maven;command-line;java;pom;cli,0,,No,No,Yes,Yes,Yes,import java.util.concurrent,Research
+europeana/embedding-api,https://github.com/europeana/embedding-api,europeana,Organization,,0,0,0,0,50,4,0,2,,,,,,eupl-1.2,cultural-heritage;europeana;recommender-system;spring-boot,0,,No,No,Yes,No,Yes,import java.util.concurrent,Industrial OSS
+rainbowdashlabs/reputation-bot,https://github.com/rainbowdashlabs/reputation-bot,rainbowdashlabs,User,,0,0,0,0,896,655,129,16,,,,2024-08-08T00:37:47Z,,agpl-3.0,reputation;reputation-bot;reaction;discord-bot;discord;jda;jda-bot;hacktoberfest;krile,0,,No,No,Yes,Yes,Yes,CompletableFuture,Research
+cicsdev/cics-banking-sample-application-cbsa,https://github.com/cicsdev/cics-banking-sample-application-cbsa,cicsdev,Organization,,0,0,0,0,426,14,10,7,,,,,,epl-2.0,java;maven-pom;spring-boot,0,,No,No,Yes,No,Yes,import java.util.concurrent,Research
+codeChill26/SWT_Coverity,https://github.com/codeChill26/SWT_Coverity,codeChill26,User,,0,0,0,0,2760,32,0,668,,,,,,mit,,0,,No,No,Yes,Yes,Yes,import java.util.concurrent,Research
+gazoprojects/custom-wurst-client,https://github.com/gazoprojects/custom-wurst-client,gazoprojects,Organization,,0,0,0,0,10,0,0,1,,,,,,mit,,0,,No,No,Yes,Yes,Yes,parallelStream(,Industrial OSS
+Privitty/privitty-deltchat-android,https://github.com/Privitty/privitty-deltchat-android,Privitty,Organization,,0,0,0,0,6159,2,62,58,,,,2025-06-27T05:41:15Z,,gpl-3.0,,0,,No,No,Yes,No,Yes,ExecutorService,Research
+paulogoliveira13/BANK,https://github.com/paulogoliveira13/BANK,paulogoliveira13,User,,0,0,0,0,426,0,0,7,,,,,,epl-2.0,,0,,No,No,Yes,No,Yes,import java.util.concurrent,Research
+Maxlego08/zEssentials,https://github.com/Maxlego08/zEssentials,Maxlego08,User,,0,0,0,0,592,51,151,13,,,,,,other,essentials;folia;folia-plugin;foliamc;paper;paper-plugin;papermc,0,,No,No,Yes,Yes,Yes,CompletableFuture,Research
+shengdingbox/aibotgo,https://github.com/shengdingbox/aibotgo,shengdingbox,User,,0,0,0,0,14,0,2,2,,,,,,,,0,,No,No,Yes,No,Yes,ExecutorService,Research
+jollyboss123/pegasus,https://github.com/jollyboss123/pegasus,jollyboss123,User,,0,0,0,0,14,0,0,1,,,,,,,java;redis;redis-server;virtual-threads-java-21,0,,No,No,Yes,No,Yes,ExecutorService,Open-source (general)
+redkale/redkale-plugins,https://github.com/redkale/redkale-plugins,redkale,User,,0,0,0,0,2048,9,0,8,,,,2024-12-30T00:32:04Z,,apache-2.0,,0,,No,No,Yes,Yes,Yes,CompletableFuture,Open-source (general)
+adobe/regola,https://github.com/adobe/regola,adobe,Organization,,0,0,0,0,82,48,2,4,,,,2025-10-12T10:22:05Z,,apache-2.0,,0,,No,No,Yes,No,Yes,CompletableFuture,Research
+actions-marketplace-validations/CaravanaCloud_cloud-janitor,https://github.com/actions-marketplace-validations/CaravanaCloud_cloud-janitor,actions-marketplace-validations,Organization,,0,0,0,0,322,0,0,3,,,,,,gpl-3.0,,0,,No,No,Yes,Yes,Yes,ExecutorService,Research
+mulesoft/mule-compression-module,https://github.com/mulesoft/mule-compression-module,mulesoft,Organization,,0,0,0,0,94,193,0,25,,,,,,,,0,,No,No,Yes,Yes,Yes,import java.util.concurrent,Industrial OSS
