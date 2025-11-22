@@ -36,3 +36,6 @@ Running the the system:
 For the Feasibility Study:
 1. Put the candidate java files inside java folder on the root of the project.
 2. Run the llm_generator.py file and the report will be generated in the test_out folder as a json file.
+
+
+Zenodo DOI: 10.5281/zenodo.17684507
